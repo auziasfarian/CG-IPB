@@ -44,4 +44,10 @@ UAS
 - Penilaian: seberapa mahir mahasiswa dalam menggunakan objek tiga dimensi, transformasi, dan interaksi.
 - Syarat untuk mendapatkan A (nilai tugas = 80): jenis objek 3D yang digunakan > 5, untuk setiap jenis transformasi (dilasi, rotasi, skalasi) minimal satu kali digunakan, ada interaksi menggunakan _mouse_ atau _keyboard_. Selebihnya nilai diambil dari kualitas pengerjaan (keindahan dan kompleksitas).
 
+## Tugas Project Unity: Membuat Game Sederhana (Deadline Pertemuan 11)
+- Membuat game sederhana dengan menggunakan Unity3D. Dapat mengikuti tutorial yang tersedia di internet, asal dimodifikasi. Tugas berkelompok maksimal tiga orang.
+- Penilaian: seberapa mahir mahasiswa menggunakan teknik-teknik grafika komputer dalam membuat aplikasi grafika komputer berjenis game.
+
 ## Tugas Project Unity (Deadline Pertemuan 14)
+- Mengembangkan aplikasi _mixed reality_ sederhana dengan menggunakan _framework_. 
+- Penilaian: seberapa mahir mahasiswa menggunakan teknik-teknik grafika komputer dalam membuat aplikasi grafika komputer berjenis _mixed reality_.
