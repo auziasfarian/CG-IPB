@@ -1,4 +1,4 @@
-Markdown ![banner](Interactive-CV-banner.png)
+![banner](Interactive-CV-banner.png)
 
 # KOM301 Grafika Komputer
 
@@ -17,23 +17,25 @@ Repositori GitHub ini menyimpan seluruh materi praktikum termasuk kode sumber ya
 - Rheisa Gusmendasari (Sesi Rabu)
 
 # Silabus
-UTS
-1. [Pengenalan dan Instalasi GLFW](https://github.com/auziasfarian/CG-IPB/tree/master/GLFW/Pertemuan%2001)
-2. [Window, Sistem Koordinat, dan Objek Dua Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/GLFW/Pertemuan%2002)
-3. [Transformasi Dua Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/GLFW/Pertemuan%2003)
-4. [Interaksi (mouse dan keyboard)](https://github.com/auziasfarian/CG-IPB/tree/master/GLFW/Pertemuan%2004)
-5. [Objek Tiga Dimensi dan Transformasi Tiga Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/GLFW/Pertemuan%2005)
-6. [Tekstur dan Pencahayaan](https://github.com/auziasfarian/CG-IPB/tree/master/GLFW/Pertemuan%2006)
-7. [Presentasi Tugas GLFW](https://github.com/auziasfarian/CG-IPB/tree/master/GLFW/Pertemuan%2007)
+[UTS](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW)
 
-UAS
-1. [Pengenalan dan Instalasi Unity](https://github.com/auziasfarian/CG-IPB/tree/master/Unity/Pertemuan%208)
-2. [Case Studies buat Game #1](https://github.com/auziasfarian/CG-IPB/tree/master/Unity/Pertemuan%209)
-3. [Case Studies buat Game #2](https://github.com/auziasfarian/CG-IPB/tree/master/Unity/Pertemuan%2010)
-4. [Case Studies buat Aplikasi AR](https://github.com/auziasfarian/CG-IPB/tree/master/Unity/Pertemuan%2011)
-5. [Case Studies buat Aplikasi VR](https://github.com/auziasfarian/CG-IPB/tree/master/Unity/Pertemuan%2012)
-6. [Project Kelompok](https://github.com/auziasfarian/CG-IPB/tree/master/Unity/Pertemuan%2013)
-7. [Presentasi Tugas Unity](https://github.com/auziasfarian/CG-IPB/tree/master/Unity/Pertemuan%2014)
+1. Pengenalan dan Instalasi GLFW
+2. Window, Sistem Koordinat, dan Objek Dua Dimensi
+3. Transformasi Dua Dimensi
+4. Interaksi (mouse dan keyboard)
+5. Objek Tiga Dimensi dan Transformasi Tiga Dimensi
+6. Tekstur dan Pencahayaan
+7. Presentasi Tugas GLFW
+
+[UAS](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity)
+
+1. Pengenalan dan Instalasi Unity
+2. Case Studies buat Game #1
+3. Case Studies buat Game #2
+4. Case Studies buat Aplikasi AR
+5. Case Studies buat Aplikasi VR
+6. Project Kelompok
+7. Presentasi Tugas Unity
 
 # TUGAS
 ## Tugas Nama (Deadline Pertemuan 5)
