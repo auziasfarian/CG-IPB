@@ -9,10 +9,10 @@ Repositori GitHub ini menyimpan seluruh materi praktikum termasuk kode sumber ya
 - Muhammad Asyhar Agmalaro
 
 # Asisten
-- Iyang Aneka Wibowo
-- Muhammad Iqbal Shiddiq
-- Nadya Farchana Fidaroina
-- Rheisa Gusmendasari 
+- Muhammad Iqbal Shiddiq (Sesi Senin)
+- Nadya Farchana Fidaroina (Sesi Senin)
+- Iyang Aneka Wibowo (Sesi Rabu)
+- Rheisa Gusmendasari (Sesi Rabu)
 
 # Silabus
 UTS
