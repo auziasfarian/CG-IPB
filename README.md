@@ -1,2 +1,3 @@
-# computergraphicscourse
-A collection of Computer Graphics source code. Dept. of Computer Science, IPB University, Indonesia
+# KOM301 Grafika Komputer
+
+Repositori GitHub ini menyimpan seluruh materi praktikum termasuk kode sumber yang digunakan di praktikum. 
