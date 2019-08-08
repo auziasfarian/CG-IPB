@@ -17,7 +17,6 @@ Repositori GitHub ini menyimpan seluruh materi praktikum termasuk kode sumber ya
 - Rheisa Gusmendasari (Sesi Rabu)
 
 # Silabus
-<<<<<<< HEAD
 [UTS](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW)
 
 1. Pengenalan dan Instalasi GLFW
