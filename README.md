@@ -37,9 +37,11 @@ UAS
 ## Tugas Nama (Deadline Pertemuan 5)
 - Membuat nama panggilan dari masing-masing dengan menggunakan objek dua dimensi dan memanfaatkan transformasi dua dimensi dan interaksi. Tugas bersifat perseorangan. Nama minimal terdiri atas 5 karakter.
 - Penilaian: seberapa mahir mahasiswa dalam menggunakan objek dua dimensi, transformasi, dan interaksi.
+- Syarat untuk mendapatkan A (nilai tugas = 80): jenis objek 2D yang digunakan > 5, untuk setiap jenis transformasi (dilasi, rotasi, skalasi) minimal satu kali digunakan, ada interaksi menggunakan _mouse_ atau _keyboard_. Selebihnya nilai diambil dari kualitas pengerjaan (keindahan dan kompleksitas).
 
 ## Tugas Rumah (Deadline Pertemuan 7)
 - Membuat desain rumah impian di masa depan kalian dengan menggunakan objek tiga dimensi dan memanfaatkan transformasi dan interaksi. Tugas bersifat perseorangan. 
 - Penilaian: seberapa mahir mahasiswa dalam menggunakan objek tiga dimensi, transformasi, dan interaksi.
+- Syarat untuk mendapatkan A (nilai tugas = 80): jenis objek 3D yang digunakan > 5, untuk setiap jenis transformasi (dilasi, rotasi, skalasi) minimal satu kali digunakan, ada interaksi menggunakan _mouse_ atau _keyboard_. Selebihnya nilai diambil dari kualitas pengerjaan (keindahan dan kompleksitas).
 
 ## Tugas Project Unity (Deadline Pertemuan 14)
