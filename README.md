@@ -25,13 +25,13 @@ UTS
 7. Presentasi Tugas GLFW
 
 UAS
-8. Pengenalan dan Instalasi Unity
-9. Case Studies buat Game #1
-10. Case Studies buat Game #2
-11. Case Studies buat Aplikasi AR
-12. Case Studies buat Aplikasi VR
-13. Project Kelompok 
-14. Presentasi Tugas Unity
+1. Pengenalan dan Instalasi Unity
+2. Case Studies buat Game #1
+3. Case Studies buat Game #2
+4. Case Studies buat Aplikasi AR
+5. Case Studies buat Aplikasi VR
+6. Project Kelompok 
+7. Presentasi Tugas Unity
 
 # TUGAS
 ## Tugas Nama (Deadline Pertemuan 5)
@@ -39,7 +39,7 @@ UAS
 - Penilaian: seberapa mahir mahasiswa dalam menggunakan objek dua dimensi, transformasi, dan interaksi.
 
 ## Tugas Rumah (Deadline Pertemuan 7)
-Membuat desain rumah impian di masa depan kalian dengan menggunakan objek tiga dimensi dan memanfaatkan transformasi dan interaksi. Tugas bersifat perseorangan. 
+- Membuat desain rumah impian di masa depan kalian dengan menggunakan objek tiga dimensi dan memanfaatkan transformasi dan interaksi. Tugas bersifat perseorangan. 
 - Penilaian: seberapa mahir mahasiswa dalam menggunakan objek tiga dimensi, transformasi, dan interaksi.
 
 ## Tugas Project Unity (Deadline Pertemuan 14)
