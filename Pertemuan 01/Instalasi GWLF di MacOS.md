@@ -9,6 +9,10 @@ Fungsi Brew adalah _package management system_ yang berjalan di MacOS (seperti a
 ``` 
 - Ikuti instruksi di terminal dan pastikan Brew terpasang pada sistem operasi Anda. 
 
-### Instalasi GLFW
+## Instalasi GLFW
 - Buka terminal dan ketikkan perintah berikut
 ```brew install glfw3 ``` 
+
+## Mengompilasi Program 
+- Buka terminal dan ketikkan:
+```gcc program.c -o myapp -framework OpenGl -lglfw3```
