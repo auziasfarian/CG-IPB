@@ -18,22 +18,22 @@ Repositori GitHub ini menyimpan seluruh materi praktikum termasuk kode sumber ya
 
 # Silabus
 [UTS](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW)
-1. [Pengenalan dan Instalasi GLFW](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2001)
-2. [Window, Sistem Koordinat, dan Objek Dua Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2002)
-3. [Transformasi Dua Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2003)
-4. [Interaksi (mouse dan keyboard)](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2004)
-5. [Objek Tiga Dimensi dan Transformasi Tiga Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2005)
-6. [Tekstur dan Pencahayaan](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2006)
-7. [Presentasi Tugas GLFW](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2007)
+1. [Pengenalan dan Instalasi GLFW](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/01%20-%20Pengenalan%20dan%20Instalasi%20GLFW)
+2. [Window, Sistem Koordinat, dan Objek Dua Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/02%20-%20Sistem%20Koordinat%20dan%20Objek%20Dua%20Dimensi)
+3. [Transformasi Dua Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/03%20-%20Transformasi%20Dua%20Dimensi)
+4. [Interaksi (mouse dan keyboard)](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/04%20-%20Interaksi%20(mouse%20dan%20keyboard))
+5. [Objek Tiga Dimensi dan Transformasi Tiga Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/05%20-%20Objek%20dan%20Transformasi%20Tiga%20Dimensi)
+6. [Tekstur dan Pencahayaan](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/06%20-%20Tekstur%20dan%20Pencahayaan)
+7. [Presentasi Tugas GLFW](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/07%20-%20Presentasi%20Tugas)
 
 [UAS](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity)
-1. [Pengenalan dan Instalasi Unity](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2008)
-2. [Case Studies buat Game #1](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2009)
-3. [Case Studies buat Game #2](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2010)
-4. [Case Studies buat Aplikasi AR](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2011)
-5. [Case Studies buat Aplikasi VR](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2012)
-6. [Project Kelompok](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2013)
-7. [Presentasi Tugas Unity](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2014)
+1. [Pengenalan dan Instalasi Unity](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/08%20-%20Pengenalan%20dan%20Instalasi%20Unity)
+2. [Case Studies buat Game #1](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/09%20-%20Studi%20Kasus%20Pengembangan%20Permainan%20Sederhana%20(Bagian%201))
+3. [Case Studies buat Game #2](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/10%20-%20Studi%20Kasus%20Pengembangan%20Permainan%20Sederhana%20(Bagian%202))
+4. [Case Studies buat Aplikasi AR](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/11%20-%20Pengembangan%20Aplikasi%20AR)
+5. [Case Studies buat Aplikasi VR](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/12%20-%20Pengembangan%20Aplikasi%20VR)
+6. [Project Kelompok](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/13%20-%20Pengerjaan%20Proyek%20Kelompok)
+7. [Presentasi Tugas Unity](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/14%20-%20Presentasi%20Proyek%20Kelompok)
 
 
 # TUGAS
