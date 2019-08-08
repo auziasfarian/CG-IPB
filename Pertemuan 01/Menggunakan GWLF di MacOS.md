@@ -1,4 +1,6 @@
-# Instalasi GLFW di Mac
+# Menggunakan GLFW di Mac
+
+UPDATE: Sejak versi MacOS Mojave, status OpenGL menjadi _deprecated_ dan tidak dapat digunakan karena Apple beralih ke Metal. So sad.
 
 ## Instalasi Brew
 Fungsi Brew adalah _package management system_ yang berjalan di MacOS (seperti apt-get pada Linux). 
@@ -11,8 +13,8 @@ Fungsi Brew adalah _package management system_ yang berjalan di MacOS (seperti a
 
 ## Instalasi GLFW
 - Buka terminal dan ketikkan perintah berikut
-```brew install glfw3 ``` 
+```brew install glfw ``` 
 
-## Mengompilasi Program 
+## Kompilasi Program 
 - Buka terminal dan ketikkan:
-```gcc program.c -o myapp -framework OpenGl -lglfw3```
+```gcc <path ke kode program> -o <nama berkas output> -framework OpenGl -lglfw```
