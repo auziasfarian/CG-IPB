@@ -18,26 +18,6 @@ Repositori GitHub ini menyimpan seluruh materi praktikum termasuk kode sumber ya
 
 # Silabus
 [UTS](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW)
-
-1. Pengenalan dan Instalasi GLFW
-2. Window, Sistem Koordinat, dan Objek Dua Dimensi
-3. Transformasi Dua Dimensi
-4. Interaksi (mouse dan keyboard)
-5. Objek Tiga Dimensi dan Transformasi Tiga Dimensi
-6. Tekstur dan Pencahayaan
-7. Presentasi Tugas GLFW
-
-[UAS](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity)
-
-1. Pengenalan dan Instalasi Unity
-2. Case Studies buat Game #1
-3. Case Studies buat Game #2
-4. Case Studies buat Aplikasi AR
-5. Case Studies buat Aplikasi VR
-6. Project Kelompok
-7. Presentasi Tugas Unity
-=======
-UTS
 1. [Pengenalan dan Instalasi GLFW](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2001)
 2. [Window, Sistem Koordinat, dan Objek Dua Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2002)
 3. [Transformasi Dua Dimensi](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2003)
@@ -46,7 +26,7 @@ UTS
 6. [Tekstur dan Pencahayaan](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2006)
 7. [Presentasi Tugas GLFW](https://github.com/auziasfarian/CG-IPB/tree/master/01.%20GLFW/Pertemuan%2007)
 
-UAS
+[UAS](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity)
 1. [Pengenalan dan Instalasi Unity](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2008)
 2. [Case Studies buat Game #1](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2009)
 3. [Case Studies buat Game #2](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2010)
@@ -54,7 +34,7 @@ UAS
 5. [Case Studies buat Aplikasi VR](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2012)
 6. [Project Kelompok](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2013)
 7. [Presentasi Tugas Unity](https://github.com/auziasfarian/CG-IPB/tree/master/02.%20Unity/Pertemuan%2014)
->>>>>>> 51abad2da8c6dad92e9cebe1505ba6e143758fad
+
 
 # TUGAS
 ## Tugas Nama (Deadline Pertemuan 5)
