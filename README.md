@@ -54,3 +54,7 @@ Repositori GitHub ini menyimpan seluruh materi praktikum termasuk kode sumber ya
 ## Tugas Project Unity (Deadline Pertemuan 14)
 - Mengembangkan aplikasi _mixed reality_ sederhana dengan menggunakan _framework_. 
 - Penilaian: seberapa mahir mahasiswa menggunakan teknik-teknik grafika komputer dalam membuat aplikasi grafika komputer berjenis _mixed reality_.
+
+# Referensi
+- Hughes JF, Van Dam A, Foley JD, McGuire M, Feiner SK, Sklar DF. 2014. _Computer Graphics: Principles and Practice_. Pearson Education.
+- (WebGL) Angel E, Shreiner D. 2014. _Interactive Computer Graphics with WebGL_. Addison-Wesley Professional.
