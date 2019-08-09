@@ -23,7 +23,7 @@ Hal yang perlu dilakukan untuk instalasi GLFW adalah:
 
 ### Contoh Kode GLFW
 
-
+```cpp
     #include <GLFW/glfw3.h>
     #include <stdlib.h>
     #include <stdio.h>
@@ -77,7 +77,7 @@ Hal yang perlu dilakukan untuk instalasi GLFW adalah:
     glfwTerminate();
     exit(EXIT_SUCCESS);
     }
-    
+``` 
     
 ### Objek Primitif pada OpenGL
 Dibawah ini adalah objek primitif yang apabila dirangkai dapat membentuk suatu objek tertentu lainnya
